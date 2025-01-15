@@ -233,7 +233,8 @@ padding-top: 20px;
 
 .far {
     padding-bottom: 3em;
-    line-height: 30px;
+    line-height: 0px;
+    font-family: inherit !important;
 }
 .numbers > .num1 h4 {
     font-weight: 700;
